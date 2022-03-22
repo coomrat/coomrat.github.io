@@ -1,2 +1,0 @@
-# coomrat.github.io
- speedtune
